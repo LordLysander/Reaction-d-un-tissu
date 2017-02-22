@@ -1,3 +1,5 @@
+#Vec3 -> WITH + - * OPERATOR 
+
 class Vec3f:
     def __init__(self):
         self.x = 0
